@@ -1,0 +1,8 @@
+{
+  "name": "readdir",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/shuo-yang-tek/readdir.git",
+  "author": "Shuo Yang <shuo.yang.tek@gmail.com>",
+  "license": "MIT"
+}
