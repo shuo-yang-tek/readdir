@@ -3,7 +3,7 @@ const readdir = require('readdir');
 
 readdir('directory/path', {
    withDir: false,
-   recursive: ture,
+   recursive: true,
    encoding: 'utf8'
 }).then(items => {
    items.forEach(item => {
